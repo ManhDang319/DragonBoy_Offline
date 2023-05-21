@@ -20,9 +20,11 @@ https://f-droid.org/repo/com.termux_118.apk
  pkg upgrade
  pkg update
  pkg install openjdk-17
+ pkg install wget
  pkg install zip
  wget -c --no-check-certificate "https://drive.google.com/uc?export=download&id=19ZAzSX5iykSn7_rgeSPeC3AW-40mwTUO&confirm=t" -O SKM.zip
  unzip SKM.zip
+ cd SKMFCN
  java -server -jar dist/Heroes_Z.jar
 ```
 
