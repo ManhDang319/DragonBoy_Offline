@@ -23,10 +23,10 @@ git clone https://github.com/ManhDang319/DragonBoy_Offline
 4 - Wait for install!
  
 
-## System Requirements
+## Hỗ Trợ Cho Máy
 - Architecture:
-- [x] 32bit ARM
-- [x] 64bit ARM
+- [x] 32bit 
+- [x] 64bit 
 - [ ] 32bit x86
 - [x] 64bit x86_64
 - [ ] còn lại ko bt
@@ -37,8 +37,8 @@ git clone https://github.com/ManhDang319/DragonBoy_Offline
 - [x] 9
 - [x] 10
 - [x] 11
-- [x] 12 [May crash]
-- [ ] 13 [Unknown]
+- [x] 12 
+- những máy trên android 12 có thể lỗi
 
 
 
