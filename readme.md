@@ -6,7 +6,7 @@
 
 
 ## Cài localhost 
-link apk localhost 
+link apk localhost https://www.mediafire.com/file/fq0z7cquqq3lfcq/com.mod.ksweb.web.developer.kit.mod.apk.v3.9863.986.apk/file
 ## Install
  
 1 - Download Termux APK (link): 
