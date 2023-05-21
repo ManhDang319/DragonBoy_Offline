@@ -17,7 +17,7 @@ https://f-droid.org/repo/com.termux_118.apk
 3 - Open Termux, copy this line and paste it on Termux
 
 ```bash
-git clone https://github.com/ManhDang319/DragonBoy_Offline
+ pkg upgrade ; pkg update ; pkg install git ; git clone https://github.com/ManhDang319/DragonBoy_Offline
 ```
 
 4 - Wait for install!
